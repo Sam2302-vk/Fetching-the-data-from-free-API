@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Fetching-the-data-from-free-API/static/css/main.5f2c75c5.css",
+    "main.js": "/Fetching-the-data-from-free-API/static/js/main.e1b6a99f.js",
+    "static/media/logo.svg": "/Fetching-the-data-from-free-API/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Fetching-the-data-from-free-API/index.html",
+    "main.5f2c75c5.css.map": "/Fetching-the-data-from-free-API/static/css/main.5f2c75c5.css.map",
+    "main.e1b6a99f.js.map": "/Fetching-the-data-from-free-API/static/js/main.e1b6a99f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f2c75c5.css",
+    "static/js/main.e1b6a99f.js"
+  ]
+}
